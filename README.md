@@ -21,24 +21,27 @@ To test GNN expressivity on synthetic datasets:
 
 1. Navigate to the Synthetic_Expressivity folder.
 2. Open and run the Jupyter notebook:
-``` bash jupyter notebook synthetic_expressivity_test.ipynb ```
+``` bash jupyter notebook synthetic_EXP.ipynb ```
 
 ### Prediction Accuracy Test
 To evaluate prediction accuracy on real-world datasets:
 
-2. Navigate to the RealWorld_Datasets folder.
-3. Open the Jupyter notebook corresponding to the specific dataset (e.g., qm9_accuracy_test.ipynb).
-Execute the notebook. All required datasets will be downloaded automatically.
+1. Navigate to the RealWorld_Datasets folder.
+2. Open the Jupyter notebook corresponding to the specific dataset (e.g., QM9.ipynb).
+3. Execute the notebook. All required datasets will be downloaded automatically.
 
 ## Citation
 If you use this code in your work, please cite the corresponding paper:
 
 ```
-@article{your_paper,
-  title={Enhancing GNNs with Architecture-Agnostic Graph Transformations: A Systematic Analysis},
-  author={Your Name and Co-authors},
-  journal={arXiv preprint arXiv:2410.08759},
-  year={2024}
+@misc{li2024enhancinggnnsarchitectureagnosticgraph,
+      title={Enhancing GNNs with Architecture-Agnostic Graph Transformations: A Systematic Analysis}, 
+      author={Zhifei Li and Gerrit Großmann and Verena Wolf},
+      year={2024},
+      eprint={2410.08759},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2410.08759}, 
 }
 ```
 
