@@ -26,9 +26,8 @@ To test GNN expressivity on synthetic datasets:
 ### Prediction Accuracy Test
 To evaluate prediction accuracy on real-world datasets:
 
-1. Navigate to the RealWorld_Datasets folder.
-2. Open the Jupyter notebook corresponding to the specific dataset (e.g., QM9.ipynb).
-3. Execute the notebook. All required datasets will be downloaded automatically.
+1. Open the Jupyter notebook corresponding to the specific dataset (e.g., QM9.ipynb).
+2. Execute the notebook. All required datasets will be downloaded automatically.
 
 ## Citation
 If you use this code in your work, please cite the corresponding paper:
