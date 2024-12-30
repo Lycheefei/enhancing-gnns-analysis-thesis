@@ -1,0 +1,3 @@
+Dataset: Base
+PNA Test Loss: 1.2846 ± 0.3551
+GIN Test Loss: 1.3421 ± 0.5631

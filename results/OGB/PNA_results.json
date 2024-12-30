@@ -1,0 +1,98 @@
+{
+    "Original": {
+        "Mean Best Accuracy": 0.740356450813393,
+        "Std Best Accuracy": 0.02572186810135671,
+        "Mean Best Expressivity": 0.879802732828488,
+        "Std Best Expressivity": 0.2604462349707435,
+        "Mean All Expressivity": 0.6827887238973465,
+        "Std All Expressivity": 0.03900930539932203
+    },
+    "Virtual Node": {
+        "Mean Best Accuracy": 0.745543238249741,
+        "Std Best Accuracy": 0.006142842960412786,
+        "Mean Best Expressivity": 0.5014572797595465,
+        "Std Best Expressivity": 0.0352345463673336,
+        "Mean All Expressivity": 0.6384711794872595,
+        "Std All Expressivity": 0.036133709827093255
+    },
+    "Degree Centrality": {
+        "Mean Best Accuracy": 0.7464380669125835,
+        "Std Best Accuracy": 0.02183877821479309,
+        "Mean Best Expressivity": 0.7172649063157684,
+        "Std Best Expressivity": 0.3174100060545751,
+        "Mean All Expressivity": 0.6444740705382886,
+        "Std All Expressivity": 0.06139349523624448
+    },
+    "Closeness Centrality": {
+        "Mean Best Accuracy": 0.7683365843295545,
+        "Std Best Accuracy": 0.0031363713711067194,
+        "Mean Best Expressivity": 0.9638424444902006,
+        "Std Best Expressivity": 0.11316125334332706,
+        "Mean All Expressivity": 0.7613227249909363,
+        "Std All Expressivity": 0.02634327463119832
+    },
+    "Betweenness Centrality": {
+        "Mean Best Accuracy": 0.7574537940091544,
+        "Std Best Accuracy": 0.004878205672457691,
+        "Mean Best Expressivity": 0.7299414889428194,
+        "Std Best Expressivity": 0.05792571319207056,
+        "Mean All Expressivity": 0.6665662136092486,
+        "Std All Expressivity": 0.0587939387921558
+    },
+    "Eigenvector Centrality": {
+        "Mean Best Accuracy": 0.7566439418812002,
+        "Std Best Accuracy": 0.003515607064587152,
+        "Mean Best Expressivity": 0.8033874214750193,
+        "Std Best Expressivity": 0.1258356769331236,
+        "Mean All Expressivity": 0.670546902876579,
+        "Std All Expressivity": 0.02198777835878064
+    },
+    "Distance Encoding Node": {
+        "Mean Best Accuracy": 0.7851027121677386,
+        "Std Best Accuracy": 0.017383935738358076,
+        "Mean Best Expressivity": 0.8155552664760709,
+        "Std Best Expressivity": 0.2706182463599705,
+        "Mean All Expressivity": 0.697264796763072,
+        "Std All Expressivity": 0.018957634383206048
+    },
+    "Distance Encoding Edge": {
+        "Mean Best Accuracy": 0.7274596522399687,
+        "Std Best Accuracy": 0.0020887518391010814,
+        "Mean Best Expressivity": 0.16547890816371993,
+        "Std Best Expressivity": 0.073462997387166,
+        "Mean All Expressivity": 3943.304728907234,
+        "Std All Expressivity": 5576.304799088475
+    },
+    "Laplacian PE": {
+        "Mean Best Accuracy": 0.7672415458004211,
+        "Std Best Accuracy": 0.013038419452704373,
+        "Mean Best Expressivity": 1.11553470555667,
+        "Std Best Expressivity": 0.1731434479628321,
+        "Mean All Expressivity": 0.7752864184036268,
+        "Std All Expressivity": 0.04422339227161782
+    },
+    "Subgraph Extraction": {
+        "Mean Best Accuracy": 0.7533086128868202,
+        "Std Best Accuracy": 0.021989697229535036,
+        "Mean Best Expressivity": 0.8448301768386225,
+        "Std Best Expressivity": 0.2873862634462536,
+        "Mean All Expressivity": 0.6590247683089192,
+        "Std All Expressivity": 0.057422902372655606
+    },
+    "Extra Node": {
+        "Mean Best Accuracy": 0.7452899180491448,
+        "Std Best Accuracy": 0.001559274121073517,
+        "Mean Best Expressivity": 0.5403265276783681,
+        "Std Best Expressivity": 0.2767171414505982,
+        "Mean All Expressivity": 0.4367581360651179,
+        "Std All Expressivity": 0.08318047781492109
+    },
+    "Graphlet Encoding": {
+        "Mean Best Accuracy": 0.7466041574125933,
+        "Std Best Accuracy": 0.01258036444168757,
+        "Mean Best Expressivity": 0.7899194219448852,
+        "Std Best Expressivity": 0.15121323761287503,
+        "Mean All Expressivity": 0.6406881351627512,
+        "Std All Expressivity": 0.009613375366938308
+    }
+}
