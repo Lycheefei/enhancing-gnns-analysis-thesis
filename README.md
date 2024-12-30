@@ -48,5 +48,6 @@ If you use this code in your work, please cite the corresponding paper:
 Contact
 For any questions or feedback, feel free to reach out:
 
-Email: [lizhifei058@gmail.com]  \\
+Email: [lizhifei058@gmail.com] 
+
 GitHub Issues: Open an Issue
