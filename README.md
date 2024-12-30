@@ -14,6 +14,36 @@ This study systematically explores the impact of various isomorphism-preserving 
 
 ### Prerequisites specified in `requirements.txt`
 
-Install all required packages using:
-```bash
-pip install -r requirements.txt
+
+## How to Reproduce Results
+### Expressivity Test
+To test GNN expressivity on synthetic datasets:
+
+1. Navigate to the Synthetic_Expressivity folder.
+2. Open and run the Jupyter notebook:
+``` bash jupyter notebook synthetic_expressivity_test.ipynb ```
+
+### Prediction Accuracy Test
+To evaluate prediction accuracy on real-world datasets:
+
+2. Navigate to the RealWorld_Datasets folder.
+3. Open the Jupyter notebook corresponding to the specific dataset (e.g., qm9_accuracy_test.ipynb).
+Execute the notebook. All required datasets will be downloaded automatically.
+
+## Citation
+If you use this code in your work, please cite the corresponding paper:
+
+```
+@article{your_paper,
+  title={Enhancing GNNs with Architecture-Agnostic Graph Transformations: A Systematic Analysis},
+  author={Your Name and Co-authors},
+  journal={arXiv preprint arXiv:2410.08759},
+  year={2024}
+}
+```
+
+Contact
+For any questions or feedback, feel free to reach out:
+
+Email: [lizhifei058@gmail.com]
+GitHub Issues: Open an Issue
